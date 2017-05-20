@@ -1,0 +1,2 @@
+#!/bin/mksh
+##!/usr/bin/mksh
